@@ -1,9 +1,7 @@
-## Hi there 👋
+## Hi I'm Haoyu Wu(吴豪宇）
 
-<!--
-**CIntellifusion/CIntellifusion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github! I am currently a forth-year undergraduate at RUC seeking for a 25 fall PhD position. My research interest lies in Video Generation and Diffusion Models. 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
